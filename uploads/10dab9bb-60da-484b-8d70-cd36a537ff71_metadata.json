@@ -1,0 +1,20 @@
+{
+  "wound_id": "10dab9bb-60da-484b-8d70-cd36a537ff71",
+  "patient_id": null,
+  "timestamp": "2025-10-26T18:53:24.827215",
+  "measurements": {
+    "area_cm2": 24.89,
+    "perimeter_cm": 26.13,
+    "length_cm": 6.14,
+    "width_cm": 5.26
+  },
+  "infection": {
+    "probability": 0.44307941198349,
+    "level": "Medium"
+  },
+  "files": {
+    "original": "uploads\\10dab9bb-60da-484b-8d70-cd36a537ff71_original.jpg",
+    "mask": "uploads\\10dab9bb-60da-484b-8d70-cd36a537ff71_mask.png",
+    "overlay": "results\\10dab9bb-60da-484b-8d70-cd36a537ff71_overlay.jpg"
+  }
+}

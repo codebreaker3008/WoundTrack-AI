@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-10-26T18:00:00",
+  "wound_id": "5afc0fcf-bb19-4444-bb01-796766bc6f87",
+  "infection": {"level": "Low", "probability": 0.1},
+  "measurements": {"area_cm2": 3.5, "perimeter_cm": 8.2, "length_cm": 2.5, "width_cm": 1.4},
+  "files": {"overlay": "results/overlay_sample.png"}
+}
