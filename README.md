@@ -111,6 +111,8 @@ FRONTEND_URL=http://localhost:3000
 <img width="946" height="883" alt="Screenshot 2025-11-04 195107" src="https://github.com/user-attachments/assets/7ace191e-6164-4e53-8c68-84110fdb0cd9" />
 <img width="1849" height="507" alt="Screenshot 2025-11-04 194732" src="https://github.com/user-attachments/assets/bd25c61e-8be4-44b4-ab9a-ecd3fd6b1120" />
 <img width="953" height="673" alt="Screenshot 2025-11-04 194749" src="https://github.com/user-attachments/assets/9f39a00b-349e-4cd6-a26a-7d7af7963594" />
+<img width="455" height="274" alt="image" src="https://github.com/user-attachments/assets/603a70e1-bf61-4c52-8c63-258aea30e4a9" />
+
 
 
 ```
