@@ -106,6 +106,12 @@ FRONTEND_URL=http://localhost:3000
 <img width="623" height="616" alt="Screenshot 2025-10-26 204025" src="https://github.com/user-attachments/assets/961018fc-a09b-4a56-a4fa-b46364207f27" />
 <img width="950" height="890" alt="Screenshot 2025-10-26 204043" src="https://github.com/user-attachments/assets/9c9008e4-c102-4bdb-a07a-abc6b28c4cfe" />
 <img width="570" height="673" alt="Screenshot 2025-10-26 204113" src="https://github.com/user-attachments/assets/3416e8e9-514e-44c5-9127-850134631204" />
+<img width="944" height="334" alt="Screenshot 2025-11-04 194802" src="https://github.com/user-attachments/assets/8c9bf3cd-8ef5-47d6-b012-a490335daf88" />
+<img width="725" height="654" alt="Screenshot 2025-11-04 195053" src="https://github.com/user-attachments/assets/561c39b3-095c-4a93-bb86-8c2b684a9205" />
+<img width="946" height="883" alt="Screenshot 2025-11-04 195107" src="https://github.com/user-attachments/assets/7ace191e-6164-4e53-8c68-84110fdb0cd9" />
+<img width="1849" height="507" alt="Screenshot 2025-11-04 194732" src="https://github.com/user-attachments/assets/bd25c61e-8be4-44b4-ab9a-ecd3fd6b1120" />
+<img width="953" height="673" alt="Screenshot 2025-11-04 194749" src="https://github.com/user-attachments/assets/9f39a00b-349e-4cd6-a26a-7d7af7963594" />
+
 
 ```
 wound-healing-tracker/
